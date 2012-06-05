@@ -1,4 +1,8 @@
 JfreechartPlay
 ==============
 
-Exemple de JFreeChart avec Play Framework 
+Des exemples d'utilisation de la librairie JFreeChart avec Play Framework 1.2.4.
+
+Duarte TERENCIO
+
+ 
